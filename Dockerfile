@@ -1,6 +1,6 @@
 # Super Simple Docker File
 
-from ubnuntu:latest
+from ubuntu:latest
 MAINTAINER Don Johnson "dj@codetestcode.io"
 
 RUN apt-get update
